@@ -150,7 +150,7 @@ Role | Description | Team Member(s)
 Product owner | Responsible for managing backlog and monitors project against stated goals and financial vision | Giora Glick
 Scrum master | Facilitates the scrum, ensures scrum is understood and enacted | Cody Fisher-Peel
 Development team | Responsible for developing incremental releases and are autonomous | Jack Hennessy, Jordan Besser
-
+_______________________________
 
 ### Scrum Events:
 #### Sprint
